@@ -1,0 +1,20 @@
+{
+  "name": "tpl",
+  "version": "0.1.0",
+  "description": "To test support for git long hashes",
+  "esy": {
+    "buildEnv": {
+      "CFLAGS": "-I#{test-warmup-lib.install / 'include' }",
+      "LDFLAGS": "-L#{test-warmup-lib.lib} -ltest-warmup-lib"
+    },
+    "buildsInSource": true,
+    "build": "make",
+    "install": "make install"
+  },
+  "scripts": {
+    "start": "esy x hello.exe"
+  },
+  "dependencies": {
+    "test-warmup-lib": "prometheansacrifice/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a"
+  }
+}
