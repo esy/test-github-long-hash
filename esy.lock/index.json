@@ -1,5 +1,5 @@
 {
-  "checksum": "29bc948da513f091258c135c4ce3469f",
+  "checksum": "b9b0a4834adf4c71ab35fb7c9ed8a02b",
   "root": "tpl@link-dev:./package.json",
   "node": {
     "tpl@link-dev:./package.json": {
@@ -13,20 +13,20 @@
       },
       "overrides": [],
       "dependencies": [
-        "test-warmup-lib@github:prometheansacrifice/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a@d41d8cd9"
+        "test-warmup-lib@github:ManasJayanth/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a@d41d8cd9"
       ],
       "devDependencies": []
     },
-    "test-warmup-lib@github:prometheansacrifice/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a@d41d8cd9": {
+    "test-warmup-lib@github:ManasJayanth/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a@d41d8cd9": {
       "id":
-        "test-warmup-lib@github:prometheansacrifice/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a@d41d8cd9",
+        "test-warmup-lib@github:ManasJayanth/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a@d41d8cd9",
       "name": "test-warmup-lib",
       "version":
-        "github:prometheansacrifice/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a",
+        "github:ManasJayanth/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a",
       "source": {
         "type": "install",
         "source": [
-          "github:prometheansacrifice/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a"
+          "github:ManasJayanth/test-warmup-lib#df22b58212c43a4675451219af52ef2e26c0db5a"
         ]
       },
       "overrides": [],
